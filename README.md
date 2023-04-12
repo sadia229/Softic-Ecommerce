@@ -1,16 +1,13 @@
 # softic_ecommerce
+## Packages
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- dio: ^4.0.6
+- get: ^4.6.5
+- hive: ^2.0.4
+- hive_flutter: ^1.1.0
+- path_provider: ^2.0.5
+- google_fonts: ^4.0.3
+- image_picker: ^0.8.6+1
+- connectivity_plus: ^3.0.35
+- internet_connection_checker: ^1.0.0+1
+- bottom_navy_bar: ^6.0.0
